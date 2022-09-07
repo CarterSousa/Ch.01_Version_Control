@@ -1,19 +1,19 @@
 '''
-Sign your name:________________
+Sign your name: Carter Sousa
 
 
 
-Define Forking: 
+Define Forking: Copying a file onto another system
 
-Define Cloning: 
+Define Cloning: Creating an identical line of code that can be pastes without haing to re-write that line of code
 
-Define Branching:
+Define Branching: creating a copy of the main branch that can be altered without changing the master branch
 
-Define Committing: 
+Define Committing: Hard saving a file
 
-Define Merging: 
+Define Merging: combining two files
 
-Define Pushing:
+Define Pushing: merging a file back onto a main file with multiple people
 
 Define Pull Request:
 
