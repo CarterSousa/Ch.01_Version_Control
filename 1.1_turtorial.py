@@ -8,7 +8,6 @@ Turtle Documentation: https://docs.python.org/3.3/library/turtle.html?highlight=
 
 '''
 import turtle
-import turtle
 
 tommy = turtle.Turtle()
 tommy.shape("turtle")
@@ -176,7 +175,3 @@ tommy.color("black")
 tommy.color("white")
 tommy.color("maroon")
 
-
-
-yoda.write('Carter Sousa',font=("Arial", 16, "normal")) # signs your name to your art
-turtle.exitonclick() #Keeps pycharm window open so we can see the drawing
