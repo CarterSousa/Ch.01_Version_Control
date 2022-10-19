@@ -15,7 +15,7 @@ Define Merging: combining two files
 
 Define Pushing: merging a file back onto a main file with multiple people
 
-Define Pull Request:
+Define Pull Request: request to pull a newer version over an older version
 
 
 '''
